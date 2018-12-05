@@ -7,6 +7,7 @@ SimpleFunction ()
 		SimpleFunction $value
 		return 0
 	done
+echo "value = $value"
 }
 SimpleFunction 1
 
